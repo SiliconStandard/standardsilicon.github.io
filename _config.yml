@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "The Silicon Standard"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Atharv Kumaria"
+name                     : "PixelPulse"
 description              : "An unbiased review of everything related to tech."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Atharv Kumaria"
+  name             : "PixelPulse"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a person who wants you to make the best choices about new tech, builds, and everything in between."
   location         : "Sammamish, Washington, USA"
